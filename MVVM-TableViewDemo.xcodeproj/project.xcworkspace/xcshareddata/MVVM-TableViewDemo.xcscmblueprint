@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "943681ECA3110B33C53B82FF503ABA7393C3D797",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "943681ECA3110B33C53B82FF503ABA7393C3D797" : 9223372036854775807,
+    "972F5F833AA12948275D965FE8B155523D770838" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "5F0F3E1E-D656-485D-AC49-5163DE3665E7",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "943681ECA3110B33C53B82FF503ABA7393C3D797" : "MVVM-Demos\/",
+    "972F5F833AA12948275D965FE8B155523D770838" : ""
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "MVVM-TableViewDemo",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "MVVM-TableViewDemo.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/ShaoWenLe\/MVVM-TableViewDemo.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "943681ECA3110B33C53B82FF503ABA7393C3D797"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/ShaoWenLe\/MultiplePhotosSelectors.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "972F5F833AA12948275D965FE8B155523D770838"
+    }
+  ]
+}
